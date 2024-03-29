@@ -10,6 +10,7 @@ if (process.env.NODE_ENV !== "production") {
 function App() {
   return (
     <div>
+      <div>hello</div>
       <Image />
     </div>
   );
